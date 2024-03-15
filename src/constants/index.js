@@ -178,7 +178,7 @@ const testimonials = [
     name: "Ambarish Sharma",
     designation: "Backend Developer",
     company: "Simpact Online Services",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    image: "https://site.simpact.co.in/assets/home/img/team/ambrish.jpg",
   },
   {
     testimonial:
