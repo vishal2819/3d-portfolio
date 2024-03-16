@@ -182,7 +182,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "I've never met a web developer who truly cares about their clients' success like Vishal does.",
     name: "Khilendra Lilhare",
     designation: "Senior Software Engineer",
     company: "Aanandi Software Pvt. Ltd.",
@@ -190,7 +190,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Vishal optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Ashutosh Kumar Dewangan",
     designation: "CEO",
     company: "Simpact Online Services",
