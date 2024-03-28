@@ -3,7 +3,7 @@ import { fadeIn, textVariant } from '../utils/motion';
 import { SectionWrapper } from '../hoc';
 /* eslint-disable react/prop-types */
 import {Tilt} from 'react-tilt';
-import  github  from '/github.png';
+import  github  from '/assets/github.png';
 import { motion } from "framer-motion";
 import { projects } from '../constants';
 import { styles } from '../styles';

@@ -1,6 +1,7 @@
-import { close, logo, menu } from "/public";
-
 import { Link } from "react-router-dom";
+import close  from "../../public/assets/close.svg";
+import logo  from "/logo.svg";
+import menu  from "../../public/assets/menu.svg";
 import { navLinks } from "../constants";
 import { styles } from "../styles";
 import { useState } from "react";
