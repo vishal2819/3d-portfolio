@@ -1,4 +1,4 @@
-import { close, logo, menu } from "/public/static/media";
+import { close, logo, menu } from "/public";
 
 import { Link } from "react-router-dom";
 import { navLinks } from "../constants";
