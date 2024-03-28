@@ -25,7 +25,7 @@ import {
   typescript,
   vishal_studio,
   web,
-} from "../../public/static/media";
+} from "/public/static/media";
 
 export const navLinks = [
   {
