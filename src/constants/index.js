@@ -60,31 +60,31 @@ const services = [
 const technologies = [
   {
     name: "HTML 5",
-    icon: html,
+    icon: "https://img.icons8.com/color/344/html-5--v1.png",
   },
   {
     name: "CSS 3",
-    icon: css,
+    icon: "https://img.icons8.com/color/344/css3.png",
   },
   {
     name: "JavaScript",
-    icon: javascript,
+    icon: "https://img.icons8.com/color/344/javascript--v1.png",
   },
   {
     name: "TypeScript",
-    icon: typescript,
+    icon: "https://img.icons8.com/color/344/typescript.png",
   },
   {
     name: "React JS",
-    icon: reactjs,
+    icon: "https://image.shutterstock.com/image-vector/react-native-icon-vector-atom-260nw-789136450.jpg",
   },
   {
     name: "Redux Toolkit",
-    icon: redux,
+    icon: "https://img.icons8.com/color/344/redux.png",
   },
   {
     name: "Tailwind CSS",
-    icon: "https://drive.google.com/file/d/11-m9eO5jzF1uXSEOkJrb3Fz-9DfAx7Nf/view",
+    icon: "https://img.icons8.com/color/344/tailwindcss.png",
   },
   {
     name: "Node JS",
