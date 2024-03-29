@@ -9,23 +9,20 @@ import {
   html,
   javascript,
   jobit,
-  meta,
   mobile,
   mongodb,
   nodejs,
   reactjs,
   redux,
-  shopify,
   simpact,
   skillync,
-  starbucks,
   tailwind,
   threejs,
   tripguide,
   typescript,
   vishal_studio,
   web,
-} from "./media";
+} from '../assets/media';
 
 export const navLinks = [
   {
