@@ -16,7 +16,6 @@ import {
   redux,
   simpact,
   skillync,
-  tailwind,
   threejs,
   tripguide,
   typescript,
@@ -85,7 +84,7 @@ const technologies = [
   },
   {
     name: "Tailwind CSS",
-    icon: tailwind,
+    icon: "https://drive.google.com/file/d/11-m9eO5jzF1uXSEOkJrb3Fz-9DfAx7Nf/view",
   },
   {
     name: "Node JS",
