@@ -28,6 +28,7 @@ import tripguide from "./tripguide.png";
 import typescript from "./tech/TypeScript.svg";
 import vishal_studio from './company/vishal_studio.png';
 import web from "./web.png";
+import yoom from './yoom.png';
 
 export {
   logo,
@@ -58,6 +59,7 @@ export {
   skillync,
   starbucks,
   carrent,
+  yoom,
   jobit,
   tripguide,
 };

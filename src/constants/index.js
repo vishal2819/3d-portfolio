@@ -21,6 +21,7 @@ import {
   typescript,
   vishal_studio,
   web,
+  yoom,
 } from '../assets/media';
 
 export const navLinks = [
@@ -196,9 +197,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Yoom",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Built with the latest Next.js and TypeScript, this project replicates Zoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.",
     tags: [
       {
         name: "react",
@@ -213,8 +214,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: yoom,
+    source_code_link: "https://github.com/vishal2819/vs-zoom_clone",
   },
   {
     name: "Job IT",
