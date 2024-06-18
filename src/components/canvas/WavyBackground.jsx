@@ -125,7 +125,7 @@ export const WavyBackground = ({
             Hi, it's Vishal
           </p>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            Welcome to my Tech World
+            I develop all types of websites,web applications and mobile apps.
           </p>
         </div>
       </div>
