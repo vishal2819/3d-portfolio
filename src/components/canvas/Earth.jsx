@@ -6,7 +6,7 @@ import React from 'react'
 import { Suspense } from 'react'
 
 const Earth = () => {
-  const earth = useGLTF('./planet/scene.gltf');
+  const earth = useGLTF('/planet/scene.gltf');
   return (
     <primitive 
     object={earth.scene}

@@ -1,4 +1,5 @@
-import { ComputersCanvas } from "./canvas";
+// import { ComputersCanvas } from "./canvas";
+import { WavyBackground } from  "./canvas/WavyBackground";
 import { motion } from "framer-motion";
 import { styles } from "../styles";
 
@@ -19,7 +20,8 @@ const Hero = () => {
           </p>
         </div>
       </div>
-      <ComputersCanvas />
+      {/* <ComputersCanvas /> */}
+      <WavyBackground />
 
         <div className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center">
           <a href="#about">

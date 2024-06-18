@@ -115,11 +115,11 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Skill-lync",
-    icon: skillync,
+    title: "Backend Developer",
+    company_name: "Riverhouse Technologies",
+    icon: "https://riverhousetechnologies.com/wp-content/uploads/2021/09/cropped-Riverhouse-Logo-Icon-Light-1.png",
     iconBg: "#383E56",
-    date: "Nov 2021 - April 2023",
+    date: "April 2024 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -128,7 +128,7 @@ const experiences = [
     ],
   },
   {
-    title: "React Native Developer",
+    title: "Sr. Frontend Developer(Web & Mobile)",
     company_name: "Simpact Online Services",
     icon: simpact,
     iconBg: "#E6DEDD",
@@ -140,25 +140,12 @@ const experiences = [
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
-  // {
-  //   title: "Web Developer",
-  //   company_name: "Shopify",
-  //   icon: shopify,
-  //   iconBg: "#383E56",
-  //   date: "Jan 2022 - Jan 2023",
-  //   points: [
-  //     "Developing and maintaining web applications using React.js and other related technologies.",
-  //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-  //     "Implementing responsive design and ensuring cross-browser compatibility.",
-  //     "Participating in code reviews and providing constructive feedback to other developers.",
-  //   ],
-  // },
   {
     title: "Full stack Developer",
-    company_name: "Vishal Studio",
-    icon: vishal_studio,
-    iconBg: "#E6DEDD",
-    date: "Jan 2022 - Present",
+    company_name: "Skill-lync",
+    icon: skillync,
+    iconBg: "#383E56",
+    date: "Nov 2021 - April 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
