@@ -92,17 +92,18 @@ export const WavyBackground = ({
     // I'm sorry but I have got to support it on Safari.
     setIsSafari(
       typeof window !== "undefined" &&
-        navigator.userAgent.includes("Safari") &&
-        !navigator.userAgent.includes("Chrome")
+      navigator.userAgent.includes("Safari") &&
+      !navigator.userAgent.includes("Chrome")
     );
   }, []);
 
   return (
     <div
       className={cn(
-        "h-screen flex flex-col items-center justify-center",
+        "h-full w-full flex items-center justify-center",
         containerClassName
       )}
+      style={{minHeight: "100vh"}}
     >
       <canvas
         className="absolute inset-0 z-0"
@@ -116,16 +117,21 @@ export const WavyBackground = ({
         <div
           {...(typeof window !== "undefined" && motion()
             ? {
-                variants: slideIn("left", "easeOut", 0.3, 1),
-              }
+              variants: slideIn("left", "easeOut", 0.3, 1),
+            }
             : {})}
           className="flex flex-col items-center justify-center"
         >
           <p className={`${styles.heroHeadText} text-white mt-10`}>
             Hi, it's Vishal
           </p>
-          <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I develop all types of websites,web applications and mobile apps.
+          <p
+            className={`${styles.heroSubText} mt-2 text-white-100 mx-2 text-center`}
+            style={{
+              fontSize: "clamp(14px, calc(13px + 1.2vw), 20px)",
+            }}
+          >
+            I develop all types of websites, web applications, and mobile apps.
           </p>
         </div>
       </div>
